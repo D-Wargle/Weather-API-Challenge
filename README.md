@@ -40,7 +40,7 @@ The application will now be accessible at `http://localhost:3001`.
 
 ## Usage 
 
-To use the application, visit the [site URL](https://weather-api-challenge-pc10.onrender.com).
+To use the application, visit the [site URL](https://weather-api-challenge-1.onrender.com).
 
 **How to Get Started**:
 
