@@ -78,9 +78,12 @@ If you would like to contribute to this project, please fork the repository and 
 
 There are no specific tests written for this project. However, manual testing of the user interface and API functionality has been conducted.
 
+
+## Photo
+![alt text](<WEATHER API.png>)
+
+
 ## Questions 
-
 If you have any questions about this project, feel free to reach out: 
-
 - **GitHub:** [D-Wargle] = https://github.com/D-Wargle/Weather-API-Challenge
 - **Email** = Danieltwarg@gmail.com
